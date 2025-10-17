@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi! Hello 👋, I'm Rifah Sanjida </h1>
-<h3 align="center">git commit -m "I'm a Data Scientist mainly focused on  Machine learning 🧑‍🔧"</h3>
+<h3 align="center"> "I'm a Data Scientist mainly focused on  Machine learning 🧑‍🔧"</h3>
 
 - 🌱 I’m currently learning about **Machine learning and Computer Vision**
 - 💬 Ask me about **Python, Computer Vision, Statistics**
@@ -17,7 +17,7 @@
 
 ### What can I help with:question::
 
-<code>git commit -m "Pretty much on the Data Science and Machine Learning"</code>
+<code> "Pretty much on the Data Science and Machine Learning"</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
