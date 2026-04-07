@@ -1,5 +1,5 @@
 # Hi there, I'm Rifah Sanjida! 👋
-### Machine Learning Enthusiast | AI Developer | LLM & RAG Researcher
+### Machine Learning Enthusiast | AI Engineer | LLM & RAG Researcher
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=rifahs&label=Profile%20views&color=0e75b6&style=flat" alt="rifahs" />
